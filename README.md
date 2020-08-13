@@ -10,4 +10,4 @@ Includes the following:
 - Optimal player settings (adjust for your company name)
 - A plane
 - An XR Rig
-- This project uses OpenGLES3 NOT Vulkan
+- This project uses OpenGLES3 NOT Vulkan (so you'll have to switch this if you want to use VFX Graph)
